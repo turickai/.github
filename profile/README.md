@@ -1,4 +1,4 @@
-# 🚀 Turicks — Tailored SaaS & Scalable Cloud Engineering
+# Turicks — Tailored SaaS & Scalable Cloud Engineering
 
 We’re a focused engineering team building **high-impact SaaS products, mobile applications, and cloud-native backend systems** that empower organizations to operate more efficiently and scale with confidence.
 
