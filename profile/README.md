@@ -11,13 +11,13 @@ At Turicks, we don’t just write code — we solve problems, modernize workflow
 We deliver end-to-end software engineering services from *idea → production → support*.
 
 ### 📌 Core Services
-• **Custom SaaS Development** — Bespoke cloud-native platforms built for your organization’s unique needs. :contentReference[oaicite:0]{index=0}  
-• **Web & Mobile Applications** — Responsive web apps and native iOS/Android experiences with strong UX and security. :contentReference[oaicite:1]{index=1}  
-• **UI/UX Design** — Wireframes, prototypes, polished interfaces that delight users. :contentReference[oaicite:2]{index=2}  
-• **Backend APIs & System Architecture** — Scalable, modular systems with clear domain separation. :contentReference[oaicite:3]{index=3}  
-• **Cloud & DevOps Engineering** — CI/CD, automated infrastructure, monitoring, and scalable deployments on AWS. :contentReference[oaicite:4]{index=4}  
-• **Security & Compliance** — Best practices for authentication, encryption, audits, and data protection. :contentReference[oaicite:5]{index=5}  
-• **Enterprise & Workflow Solutions** — Complex integrations, cross-team systems, and automation platforms. :contentReference[oaicite:6]{index=6}
+• **Custom SaaS Development** — Bespoke cloud-native platforms built for your organization's unique needs.
+• **Web & Mobile Applications** — Responsive web apps and native iOS/Android experiences with strong UX and security.  
+• **UI/UX Design** — Wireframes, prototypes, polished interfaces that delight users.  
+• **Backend APIs & System Architecture** — Scalable, modular systems with clear domain separation.  
+• **Cloud & DevOps Engineering** — CI/CD, automated infrastructure, monitoring, and scalable deployments on AWS.  
+• **Security & Compliance** — Best practices for authentication, encryption, audits, and data protection.  
+• **Enterprise & Workflow Solutions** — Complex integrations, cross-team systems, and automation platforms.
 
 ---
 
@@ -26,11 +26,11 @@ We deliver end-to-end software engineering services from *idea → production �
 We combine **technical excellence with practical business understanding**, ensuring your product not only gets built — but succeeds in the real world.
 
 ### ⭐ What Sets Us Apart
-✔ **Production-Ready, Scalable Software** — Built with long-term performance in mind. :contentReference[oaicite:7]{index=7}  
-✔ **Custom & Flexible Solutions** — Tailored to your workflows, not off-the-shelf templates. :contentReference[oaicite:8]{index=8}  
-✔ **Strong UX & Performance Focus** — We design for real human use, not just features. :contentReference[oaicite:9]{index=9}  
-✔ **Ongoing Support & Monitoring** — We’re with you post-launch for updates and performance tuning. :contentReference[oaicite:10]{index=10}  
-✔ **Cross-Industry Expertise** — Experience with SaaS products for enterprise, education, healthcare, and more. :contentReference[oaicite:11]{index=11}  
+✔ **Production-Ready, Scalable Software** — Built with long-term performance in mind.  
+✔ **Custom & Flexible Solutions** — Tailored to your workflows, not off-the-shelf templates.  
+✔ **Strong UX & Performance Focus** — We design for real human use, not just features.  
+✔ **Ongoing Support & Monitoring** — We're with you post-launch for updates and performance tuning.
+✔ **Cross-Industry Expertise** — Experience with SaaS products for enterprise, education, healthcare, and more.  
 
 ---
 
@@ -63,7 +63,7 @@ Be sure to check our pinned repositories for examples of:
 
 ## 🧠 AI & Future-Ready Software
 
-We also build **AI-driven tools and intelligent agents** that automate workflows, make data-driven decisions, and enhance internal operational efficiency — helping you reduce manual effort and speed up delivery cycles. :contentReference[oaicite:12]{index=12}
+We also build **AI-driven tools and intelligent agents** that automate workflows, make data-driven decisions, and enhance internal operational efficiency — helping you reduce manual effort and speed up delivery cycles.
 
 ---
 
